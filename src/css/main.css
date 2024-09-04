@@ -12,3 +12,25 @@ img,
 video {
   display: block;
 }
+
+body{
+  background: #E9E9E9;
+}
+
+.page{
+  display: flex;
+  width: 1728px;
+  height: 1117px;
+  padding-bottom: 1013px;
+  justify-content: center;
+  align-items: center;
+}
+
+.titre{
+
+}
+
+h1 {
+
+}
+
